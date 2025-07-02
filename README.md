@@ -36,17 +36,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visualstudiocode)
 
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abelk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelk&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ### 🔗 Let’s Connect
 
 - 🧵 Email : toroke1960@gmail.com
