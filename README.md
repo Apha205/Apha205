@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Apha 👋</h1>
 
 <p align="center">
-  Builder • Self-Taught Dev • 🛠️ Vision-Driven developer<br>
+  Builder • Self-Taught Dev •  Vision-Driven developer<br>
   Grinding to build powerful, user-owned tech — one repo at a time.
 </p>
 
@@ -9,19 +9,19 @@
 
 ### Who I Am
 
-- 🧑‍💻 I’m a hands-on developer obsessed with learning how everything works — from backend APIs to AI pipelines.
-- 🛠️ I work mostly with Python, FastAPI, full-stack dev tools, and AI model integrations.
-- 🔭 Exploring AI vision models, tagging engines, decentralized systems, and open-source tech.
-- 📈 I believe in iteration, momentum, and building *real things* that ship.
+- I’m a hands-on developer obsessed with learning how everything works — from backend APIs to AI pipelines.
+-  I work mostly with Python, FastAPI, full-stack dev tools, and AI model integrations. I'm advancing to more and more languages slowly.
+- Exploring AI vision models, tagging engines, decentralized systems, and open-source tech.
+- I believe in iteration, momentum, and building *real things* that ship.
 
 ---
 
 ### 🛠️ What I'm Learning & Building
 
-- 🧪 Building engines that process and understand video through local vision-language models (VLMs).
-- 📦 Packaging tools that combine AI, web tech, and automation.
-- ⚙️ Automating workflows, writing backend logic, and deploying smart solutions on a budget.
-- 💻 Running everything locally — API servers, LLMs, VLMs — even if it breaks 3x first.
+-  Building engines that process and understand video through local vision-language models (VLMs).
+-  Packaging tools that combine AI, web tech, and automation.
+-  Automating workflows, writing backend logic, and deploying smart solutions.
+-  Running API servers, LLMs, VLMs, 
 
 ---
 
