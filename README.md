@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Apha 👋</h1>
 
 <p align="center">
-  I build *intelligent, data-driven systems* that live at the intersection of *Machine Learning, Artificial Intelligence, Data Engineering, and Web3
+  I build intelligent, data-driven systems that live at the intersection of Machine Learning, Artificial Intelligence, Data Engineering, and Web3
 </p>
 ---
 
