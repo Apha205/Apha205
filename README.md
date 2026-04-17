@@ -1,6 +1,13 @@
 <h1 align="center">Apha 👋</h1>
 <p>
-Moving away from centralized systems into privacy-first, user-controlled tech. I design data pipelines, scalable and decentralized systems, and multimedia processing tools. Goal: make complex systems feel simple. HMU: @lawdapha:matrix.org
+I design data pipelines, privacy-first and user-controlled tech, scalable and decentralized systems, and multimedia processing tools. 
+  
+  <p>
+    Goal: make complex systems feel simple.
+  </p>
+<p>
+  HMU: @lawdapha:matrix.org, tg @Oxshakes
+</p>
 </p>
 <!---
 Apha205/Apha205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
